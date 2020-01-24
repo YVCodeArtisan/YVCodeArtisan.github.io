@@ -1,0 +1,17 @@
+{
+  "name": "yv-logo",
+  "version": "1.0.0",
+  "description": "YV Code Artisan promo site",
+  "main": "dist/index.js",
+  "repository": "https://github.com/YVCodeArtisan/Website",
+  "author": "Hajime Yamasaki Vukelic",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "test": "echo TEST ME",
+    "start": "http-server -c-1 ."
+  },
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
